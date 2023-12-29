@@ -1,4 +1,4 @@
-# Lethal Company Mod: The Chaos
+# Lethal Company Mod: The Chaos (Still being worked on) 
 
 ## Overview
 
