@@ -1,8 +1,8 @@
-# Lethal Company Mod: Unleashed Chaos
+# Lethal Company Mod: The Chaos
 
 ## Overview
 
-Welcome to the Lethal Company Mod: Unleashed Chaos! This open-source mod aims to inject exhilarating chaos into the game by enhancing various aspects of the code. Brace yourself for limitless sprinting, increased enemy counts, more landmine spawns, additional sentries, and an overall ramped-up gaming experience.
+Welcome to the Lethal Company Mod: The Chaos! This open-source mod aims to inject exhilarating chaos into the game by enhancing various aspects of the code. Brace yourself for limitless sprinting, increased enemy counts, more landmine spawns, additional sentries, and an overall ramped-up gaming experience.
 
 ## Features
 
@@ -24,12 +24,12 @@ Gain the power of infinite sprint! Now you can move through the game world witho
 
 2. **Clone Repository:** Clone the Lethal Company Mod repository using the provided link:
    ```bash
-   git clone https://github.com/your-username/LethalCompanyMod.git
+   git clone https://github.com/itsretsu/TheChaos.git
    ```
 
 3. **Navigate to Mod Directory:** Move into the mod's directory:
    ```bash
-   cd LethalCompanyMod
+   cd TheChaos
    ```
 
 4. **Compile Code:** Compile the mod code using your preferred build tool (e.g., Maven, Gradle):
